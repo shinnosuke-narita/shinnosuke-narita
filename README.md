@@ -1,16 +1,19 @@
-## Hi there 👋
+## About Me
+1. I'm mobile app engineer.
+2. My Favorite is Android app development.
+    - [My Release App](https://play.google.com/store/apps/details?id=com.withapp.coffeememo&hl=gsw&gl=US)
 
-<!--
-**shinnosuke-narita/shinnosuke-narita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+| Kind | Tech |
+| --- | --- |
+| **Languages&FW** | ![](https://skillicons.dev/icons?i=kotlin,java,cpp,dart,rails,html,css) |
+| **DB** | ![](https://skillicons.dev/icons?i=sqlite,mongo) |
+| **VCS** | ![](https://skillicons.dev/icons?i=github,gitlab) |
+| **Text Editor** | ![](https://skillicons.dev/icons?i=vim,androidstudio,vscode) |
 
-Here are some ideas to get you started:
+## Git Status
+### Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs?username=shinnosuke-narita&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Streaks
+![](https://github-readme-streak-stats.herokuapp.com/?user=shinnosuke-narita&theme=dracula)
